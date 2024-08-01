@@ -22,5 +22,6 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <th><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50"</th>
+    <th><img src="https://download.blender.org/branding/community/blender_community_badge_white.png" width="50" height="80"</th>
   </tr>
 </table>
