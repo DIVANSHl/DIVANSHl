@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DIVANSHl- 
+- 👋 Hi, I’m @DIVYANSHI- 
 - 😄 Pronouns: she/her
 - interests : 3D + 2D game development
 
