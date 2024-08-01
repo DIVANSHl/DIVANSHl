@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DIVANSHl- 
 - 😄 Pronouns: she/her
+- interests : 3D + 2D game development
 
 
 <!---
@@ -8,12 +9,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>My Skills</h1>
-<table>
+<table border:collapse >
   <tr>
-   <th> <img src="https://static.javatpoint.com/core/images/java-logo1.png" width="50" height="50"> </th> 
-   <th> <img src="https://t4.ftcdn.net/jpg/04/51/97/61/360_F_451976157_FRUMhB3tWh3qRhD6rE9PJdDEliCHMtZM.jpg" width="50" height="50"> </th>
-   <th> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="50" height="50"> </th>
-   <th> <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg" width="50" height="50"> </th>
+   <th> <img src="https://static.javatpoint.com/core/images/java-logo1.png" width="80" height="50"> </th> 
+   <th> <img src="https://t4.ftcdn.net/jpg/04/51/97/61/360_F_451976157_FRUMhB3tWh3qRhD6rE9PJdDEliCHMtZM.jpg" width="80" height="50"> </th>
+   <th> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="80" height="50"> </th>
+   <th> <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg" width="80" height="50"> </th>
   </tr>  
 </table>
 
